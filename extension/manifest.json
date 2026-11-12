@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "source hunter",
+  "version": "0.1.0",
+  "description": "highlight a number, claim or quote on any page and trace it back to the original source, step by step.",
+  "permissions": ["storage", "activeTab", "scripting"],
+  "host_permissions": [
+    "https://agent.tinyfish.ai/*",
+    "https://api.search.tinyfish.ai/*",
+    "https://api.fetch.tinyfish.ai/*"
+  ],
+  "background": { "service_worker": "background.js" },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "css": ["content.css"]
+    }
+  ]
+}
