@@ -1,0 +1,70 @@
+{
+  "runId": "01a1ce9c-3605-7b17-a682-24680bafd81a",
+  "parsed": {
+    "verdict": "no traceable source",
+    "note": "The claim has no traceable primary source: the only attributed origin—a 1993 'PC Professional' article by 'Lisa Birgit Holst'—was fabricated by Snopes in April 2001 as a deliberate in-joke (the name is an anagram of 'This is a big troll'), the cited 1954 book contains nothing about swallowing spiders, and the actual first appearance of the claim remains unknown, with the oldest verifiable mention so far being an April 1992 Cornell Engineer column and a March 1997 Usenet thread.",
+    "chain": [
+      {
+        "url": "https://theonlinephysicstutor.com/eight-spiders-a-year.html",
+        "title": "You don't Swallow eight spiders a year",
+        "date": "unknown",
+        "exact_wording": "Have you heard the \"fact\" that the average person swallows eight spiders a year in their sleep? Well, it is not true; there is no evidence that it happens, and it contradicts both human and spider biology.",
+        "is_primary": false,
+        "breaks_chain": false,
+        "change": "Popularisation point; repeats the common '8 spiders a year' wording and attributes it to Snopes."
+      },
+      {
+        "url": "https://www.snopes.com/fact-check/swallow-spiders/",
+        "title": "Do People Swallow Eight Spiders Per Year?",
+        "date": "originally April 2001; current version undated",
+        "exact_wording": "This \"statistic\" average the average person swallowing eight spiders per year was not only made up out of whole cloth, it was invented as an example of the absurd things people will believe simply because they come across them on the Internet.",
+        "is_primary": false,
+        "breaks_chain": true,
+        "change": "Snopes attributes the claim to a fabricated 1993 'PC Professional' article by the non-existent 'Lisa Birgit Holst'; this attribution was itself invented by Snopes in April 2001 and is not a real source."
+      },
+      {
+        "url": "https://www.snopes.com/lisa-birgit-holst/",
+        "title": "Lisa Birgit Holst | Snopes.com",
+        "date": "originally April 2001; confession page added after 2015",
+        "exact_wording": "The latter's name, which many readers have successfully discovered, is an anagram of the phrase 'This is a big troll.' ... This \"easter egg\" was created over 20 years ago in April of 2001 as wink to our long-time readers. While the 1954 book \"Insect Fact and Folklore\" is real, if you checked page 24 you would find that it says nothing about the \"people swallow eight spiders per year\" rumor, which likely originated decades after its publication. We're still on the hunt for the origins of this long-standing rumor.",
+        "is_primary": false,
+        "breaks_chain": true,
+        "change": "Snopes officially admits 'Lisa Birgit Holst' and 'PC Professional' do not exist, the 1954 book contains no such claim, and the true origin of the rumor remains unknown."
+      },
+      {
+        "url": "https://www.lemmi.no/p/the-eight-spiders",
+        "title": "The Eight Spiders",
+        "date": "unknown (post-2015)",
+        "exact_wording": "This archived Usenet discussion from early 1997 is the oldest verifiable mention of the myth I've been able to track down. [A viewer] managed to find a mention of this myth in an article from 1992... The article was published in April of 1992 which antedates the elusive PC Professional article cited by Snopes by several months. In August of 2021, the founder of Snopes, David Mikkelson, finally admitted to \"Lisa Birgit Holst\" being a deliberate anagram for \"tHis is a Big troLl\".",
+        "is_primary": false,
+        "breaks_chain": false,
+        "change": "Deepest investigative trace found: pushes earliest known appearance back to April 1992 (Cornell Engineer) and a March 1997 Usenet thread, but confirms no primary source has ever been located."
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=23893680",
+        "title": "The ultimate troll entry for me on Snopes is… | Hacker News",
+        "date": "2020",
+        "exact_wording": "The average person swallows eight spiders while sleeping, in their lifetime. What if all eight show up tonight? [Cornell Engineer, Volume 56, number 2, page 24, April 1992, by Margot Anne-Stephanie Vigeant '94]",
+        "is_primary": false,
+        "breaks_chain": false,
+        "change": "Independently corroborates the April 1992 Cornell Engineer column as an earlier mention than Snopes's fabricated 1993 citation, but notes this column itself appears tongue-in-cheek and is not a scientific source."
+      },
+      {
+        "url": "https://www.burkemuseum.org/collections-and-research/biology/arachnology-and-entomology/spider-myths/myth-you-swallow-spiders",
+        "title": "Myth: You swallow spiders in your sleep",
+        "date": "unknown",
+        "exact_wording": "Myth: You unknowingly swallow an average of four live spiders in your sleep each year. Fact: This very widespread urban legend has no basis in fact. No such case is on formal record anywhere in scientific or medical literature.",
+        "is_primary": false,
+        "breaks_chain": false,
+        "change": "Notes the claim circulates in multiple inconsistent forms (4/year, 8/year, 20/lifetime, 1 lb/lifetime); confirms no scientific or medical documentation exists; does not identify a primary source."
+      }
+    ],
+    "searched_but_not_found": [
+      "https://web.archive.org/web/20010601000000*/snopes.com/spiders — Wayback Machine search interface returned no archived Snopes article text",
+      "Lucy W. Clausen, Insect Fact and Folklore (1954), p. 24 — cited by Snopes as Holst's source but confirmed by multiple investigators to contain nothing about swallowing spiders",
+      "PC Professional, 7 January 1993, p. 71, 'Reading Is Believing' by Lisa Birgit Holst — no such magazine or article has been verified to exist; Library of Congress could not confirm the periodical",
+      "Cornell Engineer, Volume 56, Number 2, April 1992, p. 24 ('Stress and Strain' by Margot A.S. Vigeant) — referenced in evidence as earliest known print mention but not directly retrievable as a live URL in this chain",
+      "Usenet thread, March 20, 1997 — cited by LEMMiNO as oldest verifiable online mention but not directly accessible as a live URL in this chain"
+    ]
+  }
+}

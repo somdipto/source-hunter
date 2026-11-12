@@ -1,0 +1,51 @@
+# source hunter demo
+
+claim: "50 percent of marriages in the United States end in divorce"
+seen on: n/a
+research run: 01a1ce9c-3877-7308-80be-a9b7f0528512
+
+## verdict: changed along the way
+
+The popular absolute claim '50 percent of marriages in the United States end in divorce' is a flattened, unsourced paraphrase of a conditional demographic projection first formally published by Paul Glick (1984), who stated 'about one-half of the first marriages of young adults today are likely to end in divorce' — a cohort projection for people marrying circa 1980 that was subsequently cited without its conditionality, misapplied to all marriages at all times, and further confused with a flawed crude-rate calculation (annual divorces ÷ annual marriages ≈ 50%).
+
+## chain
+
+1. [Divorce Statistics and Facts | What Affects Divorce Rates in the U.S.?](https://www.wf-lawyers.com/divorce-statistics-and-facts/) - retrieved 2026-11-12 (fetch-confirmed live)
+   > "Almost 50 percent of all marriages in the United States will end in divorce or separation."
+   - changed here: Claim presented as a standing fact for all marriages with no citation to any source; 'almost 50%' conflates divorce and separation and strips all conditionality from the original projection.
+2. [Can this marriage be saved? – APA Monitor on Psychology](https://www.apa.org/monitor/2013/04/marriage) - April 2013 (fetch-confirmed live)
+   > "experts routinely estimate that between 40 percent and 50 percent of marriages today will end in divorce."
+   - changed here: APA hedges with 'experts routinely estimate' and a range (40–50%), attributing underlying data to NCHS rather than to any single primary projection study; does not name Glick, Preston, or any originating paper.
+3. [Marriage, Divorce, and Remarriage in the 1990's – U.S. Census Bureau, Current Population Reports P23-180](https://www2.census.gov/library/publications/1992/demographics/p23-180.pdf) - October 1992 - PRIMARY SOURCE (fetch-confirmed live)
+   > "Between the late 1960's and 1980, the divorce rate doubled, reaching a level where at least 1 out of 2 marriages was expected to end in divorce (Castro Martin and Bumpass, 1989)."
+   - changed here: Census report itself cites Castro Martin and Bumpass (1989) for the '1 out of 2' figure, and separately projects 4-out-of-10 or 5-out-of-10 depending on trend assumption — the report does not originate the claim but transmits it; also cites Norton and Moorman (1987) as an earlier survey source.
+4. [What Is the Divorce Rate, Anyway? Around 42 Percent, One Scholar Believes – Institute for Family Studies](https://ifstudies.org/blog/what-is-the-divorce-rate-anyway-around-42-percent-one-scholar-believes/) - 2014
+   > "in 1984, Paul Glick published a study saying, among other things, 'About one-half of the first marriages of young adults today are likely to end in divorce.'"
+   - changed here: Article correctly identifies Glick (1984) as the earliest named formal source of the projection and notes the origin is hard to trace further back; also attributes crude-rate misuse as a parallel popularising mechanism.
+5. [Breaking Up Is Hard to Count: The Rise of Divorce in the United States, 1980–2010 – Demography (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3972308/) - 2014
+   > "By the 1980s, most demographic analysts agreed that about one-half of marriages then being contracted would end in divorce (e.g., Cherlin 1981; Glick 1984; Norton 1983)."
+   - changed here: Peer-reviewed article confirms that by the 1980s the consensus projection was ~50%, attributing it to Cherlin (1981), Glick (1984), and Norton (1983); also notes Preston (1975) estimated 44% using indirect methods from 1973 disruption rates — pushing the traceable chain back to Preston (1975).
+6. [Determinants of Divorce over the Marital Life Course – American Sociological Review, Vol. 51 No. 4 (South & Spitze 1986)](https://www.turchi.sites.oasis.unc.edu/econ586/Readings/South_Spitze.pdf) - August 1986
+   > "recent projections suggest that close to half of recent marriages will end in divorce (Preston and McDonald, 1979; Cherlin, 1981)."
+   - changed here: 1986 peer-reviewed paper cites Preston and McDonald (1979) and Cherlin (1981) as the sources of the 'close to half' projection — pushing the earliest traceable named primary source back to Preston & McDonald (1979), predating Glick (1984).
+7. [Breaking Up Is Hard to Count – Demography (PMC) [second reference for Preston 1975]](https://pmc.ncbi.nlm.nih.gov/articles/PMC3972308/) - 2014
+   > "Preston (1975) used indirect methods to estimate that 44% of marriages would end in divorce based on the disruption rates observed in 1973."
+   - changed here: Identifies Preston (1975) as producing a quantitative estimate of 44% — the earliest named primary calculation in the evidence chain — based on 1973 NCHS disruption-rate data, predating Preston & McDonald (1979).
+8. [Vital and Health Statistics Series 21, No. 24 – NCHS (December 1973)](https://www.cdc.gov/nchs/data/series/sr_21/sr21_024.pdf) - December 1973 - PRIMARY SOURCE
+   > "In 1967 there were more than 50 times as many divorces in the United States as in 1867 (10,000 to 523,000) but only 5.4 times as many marriages (357,000 to 1,927,000)."
+   - changed here: This NCHS vital-statistics compendium (1867–1967 data) is the underlying federal dataset from which Preston (1975) drew 1973 disruption rates to construct his 44% estimate; it does not itself state a 50% lifetime figure but provides the raw annual marriage and divorce counts that made the crude-rate calculation possible.
+
+## searched but not found
+
+- APA.org primary topic page on divorce (apa.org/topics/divorce-child-custody) — states no 50% figure and cites no originating study
+- CDC NCHS FastStats Marriage and Divorce (cdc.gov/nchs/fastats/marriage-divorce.htm) — reports current annual rates only; no 50% lifetime claim or originating source
+- CDC/NCHS Advance Data No. 323, Bramlett & Mosher 2001 (stacks.cdc.gov/view/cdc/108336) — reports 1/5 of first marriages end within 5 years and 1/3 within 10 years; does not state a 50% lifetime figure
+- CDC/NCHS Vital and Health Statistics Series 23 No. 22, July 2002 (cdc.gov/nchs/data/series/sr_23/sr23_022.pdf) — life-table probabilities by characteristic; no 50% lifetime figure in front matter
+- Preston & McDonald (1979) original journal article — named in chain but full text not directly retrieved; existence confirmed by South & Spitze (1986) citation
+- Paul Glick (1984) original study — named in chain but full text not directly retrieved; existence and exact wording confirmed by IFS blog citation
+- Preston (1975) original paper — named in chain but full text not retrieved; existence confirmed by Kennedy/Ruggles (2014) PMC article
+- Snopes 'Half of Marriages End in Divorce?' (snopes.com/news/2024/08/01/marriage-divorce-rate/) — debunks crude-rate method; does not identify a single original primary source
+- Wikipedia 'Divorce in the United States' (en.wikipedia.org/wiki/Divorce_in_the_United_States) — does not state the 50% figure or identify its primary source
+- Dominionlaw.com (dominionlaw.com/true-or-false-half-of-all-marriages-end-in-divorce/) — attributes figure to '1980 US Census report' but provides no citation or document name to verify
+
+built with TinyFish endpoints: research (deep run), fetch (live-check), search (citer backfill)
